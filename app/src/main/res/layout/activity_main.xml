@@ -10,21 +10,21 @@
     <fragment
         android:id="@+id/primer_Fragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:name="com.example.proyecto2.fragment_principal"
-        android:layout_weight="1" />
+        android:layout_weight="4" />
 
     <fragment
         android:id="@+id/segundo_Fragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:name="com.example.proyecto2.fragment_nombre"
         android:layout_weight="1" />
 
     <fragment
         android:id="@+id/tercer_Fragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:name="com.example.proyecto2.fragment_apellido"
         android:layout_weight="1" />
 
