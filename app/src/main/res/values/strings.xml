@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Proyecto 2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv1">¡Bienvenido al Proyecto 2 del grupo 4!</string>
+    <string name="tv2">Nombre</string>
+    <string name="tv3">Apellido</string>
+    <string name="btn1">Enviar</string>
+    <string name="btn2">Limpiar</string>
 </resources>
