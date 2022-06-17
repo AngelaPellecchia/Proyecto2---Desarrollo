@@ -86,5 +86,12 @@ public class fragment_principal extends Fragment {
                 getParentFragmentManager().setFragmentResult("key2",bundle2);
             }
         });
+        btn2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                et1.setText("");
+                et2.setText("");
+            }
+        });
     }
 }
